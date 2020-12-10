@@ -95,3 +95,4 @@ class UserOnline{
     }
 }
 
+(new UserOnline())->getOnlineStatus();
